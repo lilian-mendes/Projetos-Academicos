@@ -1,0 +1,44 @@
+=== Método: CORREL ===
+
+        Matriz de Confusão:
+        ------------------
+        | VP: 7 | FP: 9 |
+        | FN: 8 | VN: 6 |
+        ------------------
+        
+Sensibilidade: 0.47
+Especificidade: 0.40
+
+=== Método: CHISQR ===
+
+        Matriz de Confusão:
+        ------------------
+        | VP: 4 | FP: 6 |
+        | FN: 11 | VN: 9 |
+        ------------------
+        
+Sensibilidade: 0.27
+Especificidade: 0.60
+
+=== Método: INTERSECT ===
+
+        Matriz de Confusão:
+        ------------------
+        | VP: 6 | FP: 5 |
+        | FN: 9 | VN: 10 |
+        ------------------
+        
+Sensibilidade: 0.40
+Especificidade: 0.67
+
+=== Método: BHATTACHARYYA ===
+
+        Matriz de Confusão:
+        ------------------
+        | VP: 2 | FP: 8 |
+        | FN: 13 | VN: 7 |
+        ------------------
+        
+Sensibilidade: 0.13
+Especificidade: 0.47
+
